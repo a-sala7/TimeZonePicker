@@ -18,6 +18,8 @@ namespace TimeZonePicker
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
             builder.RootComponents.Add<App>("#app");
 
+            Console.WriteLine(builder.HostEnvironment.Environment);
+
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
 
             var http = new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) };
