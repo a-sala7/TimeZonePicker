@@ -1,0 +1,1612 @@
+[
+  {
+    "countryCode": "AF",
+    "id": "Asia/Kabul",
+    "displayName": "(UTC+04:30) Kabul"
+  },
+  {
+    "countryCode": "AX",
+    "id": "Europe/Mariehamn",
+    "displayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
+  },
+  {
+    "countryCode": "AL",
+    "id": "Europe/Tirane",
+    "displayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+  },
+  {
+    "countryCode": "DZ",
+    "id": "Africa/Algiers",
+    "displayName": "(UTC+01:00) West Central Africa"
+  },
+  {
+    "countryCode": "AS",
+    "id": "Pacific/Pago_Pago",
+    "displayName": "(UTC-11:00) Coordinated Universal Time-11"
+  },
+  {
+    "countryCode": "AD",
+    "id": "Europe/Andorra",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "AO",
+    "id": "Africa/Luanda",
+    "displayName": "(UTC+01:00) West Central Africa"
+  },
+  {
+    "countryCode": "AI",
+    "id": "America/Anguilla",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "AQ",
+    "id": "Antarctica/Palmer",
+    "displayName": "(UTC-03:00) Cayenne, Fortaleza"
+  },
+  {
+    "countryCode": "AQ",
+    "id": "Antarctica/Troll",
+    "displayName": null
+  },
+  {
+    "countryCode": "AQ",
+    "id": "Antarctica/Syowa",
+    "displayName": "(UTC+03:00) Nairobi"
+  },
+  {
+    "countryCode": "AQ",
+    "id": "Antarctica/Mawson",
+    "displayName": "(UTC+05:00) Ashgabat, Tashkent"
+  },
+  {
+    "countryCode": "AQ",
+    "id": "Antarctica/Vostok",
+    "displayName": "(UTC+06:00) Astana"
+  },
+  {
+    "countryCode": "AQ",
+    "id": "Antarctica/Davis",
+    "displayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta"
+  },
+  {
+    "countryCode": "AQ",
+    "id": "Antarctica/DumontDUrville",
+    "displayName": "(UTC+10:00) Guam, Port Moresby"
+  },
+  {
+    "countryCode": "AQ",
+    "id": "Antarctica/Casey",
+    "displayName": "(UTC+11:00) Solomon Is., New Caledonia"
+  },
+  {
+    "countryCode": "AG",
+    "id": "America/Antigua",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "AR",
+    "id": "America/Argentina/Buenos_Aires",
+    "displayName": "(UTC-03:00) City of Buenos Aires"
+  },
+  {
+    "countryCode": "AM",
+    "id": "Asia/Yerevan",
+    "displayName": "(UTC+04:00) Yerevan"
+  },
+  {
+    "countryCode": "AW",
+    "id": "America/Aruba",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "AC",
+    "id": "Atlantic/St_Helena",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "AU",
+    "id": "Australia/Perth",
+    "displayName": "(UTC+08:00) Perth"
+  },
+  {
+    "countryCode": "AU",
+    "id": "Australia/Eucla",
+    "displayName": "(UTC+08:45) Eucla"
+  },
+  {
+    "countryCode": "AU",
+    "id": "Australia/Darwin",
+    "displayName": "(UTC+09:30) Darwin"
+  },
+  {
+    "countryCode": "AU",
+    "id": "Australia/Adelaide",
+    "displayName": "(UTC+09:30) Adelaide"
+  },
+  {
+    "countryCode": "AU",
+    "id": "Australia/Brisbane",
+    "displayName": "(UTC+10:00) Brisbane"
+  },
+  {
+    "countryCode": "AU",
+    "id": "Australia/Sydney",
+    "displayName": "(UTC+10:00) Canberra, Melbourne, Sydney"
+  },
+  {
+    "countryCode": "AU",
+    "id": "Australia/Lord_Howe",
+    "displayName": "(UTC+10:30) Lord Howe Island"
+  },
+  {
+    "countryCode": "AT",
+    "id": "Europe/Vienna",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "AZ",
+    "id": "Asia/Baku",
+    "displayName": "(UTC+04:00) Baku"
+  },
+  {
+    "countryCode": "BS",
+    "id": "America/Nassau",
+    "displayName": "(UTC-05:00) Eastern Time (US & Canada)"
+  },
+  {
+    "countryCode": "BH",
+    "id": "Asia/Bahrain",
+    "displayName": "(UTC+03:00) Kuwait, Riyadh"
+  },
+  {
+    "countryCode": "BD",
+    "id": "Asia/Dhaka",
+    "displayName": "(UTC+06:00) Dhaka"
+  },
+  {
+    "countryCode": "BB",
+    "id": "America/Barbados",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "BY",
+    "id": "Europe/Minsk",
+    "displayName": "(UTC+03:00) Minsk"
+  },
+  {
+    "countryCode": "BE",
+    "id": "Europe/Brussels",
+    "displayName": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
+  },
+  {
+    "countryCode": "BZ",
+    "id": "America/Belize",
+    "displayName": "(UTC-06:00) Central America"
+  },
+  {
+    "countryCode": "BJ",
+    "id": "Africa/Porto-Novo",
+    "displayName": "(UTC+01:00) West Central Africa"
+  },
+  {
+    "countryCode": "BM",
+    "id": "Atlantic/Bermuda",
+    "displayName": "(UTC-04:00) Atlantic Time (Canada)"
+  },
+  {
+    "countryCode": "BT",
+    "id": "Asia/Thimphu",
+    "displayName": "(UTC+06:00) Dhaka"
+  },
+  {
+    "countryCode": "BO",
+    "id": "America/La_Paz",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "BA",
+    "id": "Europe/Sarajevo",
+    "displayName": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
+  },
+  {
+    "countryCode": "BW",
+    "id": "Africa/Gaborone",
+    "displayName": "(UTC+02:00) Harare, Pretoria"
+  },
+  {
+    "countryCode": "BR",
+    "id": "America/Rio_Branco",
+    "displayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco"
+  },
+  {
+    "countryCode": "BR",
+    "id": "America/Manaus",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "BR",
+    "id": "America/Sao_Paulo",
+    "displayName": "(UTC-03:00) Brasilia"
+  },
+  {
+    "countryCode": "BR",
+    "id": "America/Noronha",
+    "displayName": "(UTC-02:00) Coordinated Universal Time-02"
+  },
+  {
+    "countryCode": "IO",
+    "id": "Indian/Chagos",
+    "displayName": "(UTC+06:00) Astana"
+  },
+  {
+    "countryCode": "VG",
+    "id": "America/Tortola",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "BN",
+    "id": "Asia/Brunei",
+    "displayName": "(UTC+08:00) Kuala Lumpur, Singapore"
+  },
+  {
+    "countryCode": "BG",
+    "id": "Europe/Sofia",
+    "displayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
+  },
+  {
+    "countryCode": "BF",
+    "id": "Africa/Ouagadougou",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "BI",
+    "id": "Africa/Bujumbura",
+    "displayName": "(UTC+02:00) Harare, Pretoria"
+  },
+  {
+    "countryCode": "KH",
+    "id": "Asia/Phnom_Penh",
+    "displayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta"
+  },
+  {
+    "countryCode": "CM",
+    "id": "Africa/Douala",
+    "displayName": "(UTC+01:00) West Central Africa"
+  },
+  {
+    "countryCode": "CA",
+    "id": "America/Vancouver",
+    "displayName": "(UTC-08:00) Pacific Time (US & Canada)"
+  },
+  {
+    "countryCode": "CA",
+    "id": "America/Dawson_Creek",
+    "displayName": "(UTC-07:00) Arizona"
+  },
+  {
+    "countryCode": "CA",
+    "id": "America/Whitehorse",
+    "displayName": "(UTC-07:00) Yukon"
+  },
+  {
+    "countryCode": "CA",
+    "id": "America/Edmonton",
+    "displayName": "(UTC-07:00) Mountain Time (US & Canada)"
+  },
+  {
+    "countryCode": "CA",
+    "id": "America/Regina",
+    "displayName": "(UTC-06:00) Saskatchewan"
+  },
+  {
+    "countryCode": "CA",
+    "id": "America/Winnipeg",
+    "displayName": "(UTC-06:00) Central Time (US & Canada)"
+  },
+  {
+    "countryCode": "CA",
+    "id": "America/Atikokan",
+    "displayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco"
+  },
+  {
+    "countryCode": "CA",
+    "id": "America/Toronto",
+    "displayName": "(UTC-05:00) Eastern Time (US & Canada)"
+  },
+  {
+    "countryCode": "CA",
+    "id": "America/Blanc-Sablon",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "CA",
+    "id": "America/Halifax",
+    "displayName": "(UTC-04:00) Atlantic Time (Canada)"
+  },
+  {
+    "countryCode": "CA",
+    "id": "America/St_Johns",
+    "displayName": "(UTC-03:30) Newfoundland"
+  },
+  {
+    "countryCode": "IC",
+    "id": "Atlantic/Canary",
+    "displayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London"
+  },
+  {
+    "countryCode": "CV",
+    "id": "Atlantic/Cape_Verde",
+    "displayName": "(UTC-01:00) Cabo Verde Is."
+  },
+  {
+    "countryCode": "BQ",
+    "id": "America/Kralendijk",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "KY",
+    "id": "America/Cayman",
+    "displayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco"
+  },
+  {
+    "countryCode": "CF",
+    "id": "Africa/Bangui",
+    "displayName": "(UTC+01:00) West Central Africa"
+  },
+  {
+    "countryCode": "EA",
+    "id": "Africa/Ceuta",
+    "displayName": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
+  },
+  {
+    "countryCode": "TD",
+    "id": "Africa/Ndjamena",
+    "displayName": "(UTC+01:00) West Central Africa"
+  },
+  {
+    "countryCode": "CL",
+    "id": "Pacific/Easter",
+    "displayName": "(UTC-06:00) Easter Island"
+  },
+  {
+    "countryCode": "CL",
+    "id": "America/Santiago",
+    "displayName": "(UTC-04:00) Santiago"
+  },
+  {
+    "countryCode": "CL",
+    "id": "America/Punta_Arenas",
+    "displayName": "(UTC-03:00) Punta Arenas"
+  },
+  {
+    "countryCode": "CN",
+    "id": "Asia/Shanghai",
+    "displayName": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
+  },
+  {
+    "countryCode": "CX",
+    "id": "Indian/Christmas",
+    "displayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta"
+  },
+  {
+    "countryCode": "CC",
+    "id": "Indian/Cocos",
+    "displayName": "(UTC+06:30) Yangon (Rangoon)"
+  },
+  {
+    "countryCode": "CO",
+    "id": "America/Bogota",
+    "displayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco"
+  },
+  {
+    "countryCode": "KM",
+    "id": "Indian/Comoro",
+    "displayName": "(UTC+03:00) Nairobi"
+  },
+  {
+    "countryCode": "CG",
+    "id": "Africa/Brazzaville",
+    "displayName": "(UTC+01:00) West Central Africa"
+  },
+  {
+    "countryCode": "CD",
+    "id": "Africa/Kinshasa",
+    "displayName": "(UTC+01:00) West Central Africa"
+  },
+  {
+    "countryCode": "CD",
+    "id": "Africa/Lubumbashi",
+    "displayName": "(UTC+02:00) Harare, Pretoria"
+  },
+  {
+    "countryCode": "CK",
+    "id": "Pacific/Rarotonga",
+    "displayName": "(UTC-10:00) Hawaii"
+  },
+  {
+    "countryCode": "CR",
+    "id": "America/Costa_Rica",
+    "displayName": "(UTC-06:00) Central America"
+  },
+  {
+    "countryCode": "CI",
+    "id": "Africa/Abidjan",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "HR",
+    "id": "Europe/Zagreb",
+    "displayName": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
+  },
+  {
+    "countryCode": "CU",
+    "id": "America/Havana",
+    "displayName": "(UTC-05:00) Havana"
+  },
+  {
+    "countryCode": "CW",
+    "id": "America/Curacao",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "CY",
+    "id": "Asia/Nicosia",
+    "displayName": "(UTC+02:00) Athens, Bucharest"
+  },
+  {
+    "countryCode": "CZ",
+    "id": "Europe/Prague",
+    "displayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+  },
+  {
+    "countryCode": "DK",
+    "id": "Europe/Copenhagen",
+    "displayName": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
+  },
+  {
+    "countryCode": "DG",
+    "id": "Indian/Chagos",
+    "displayName": "(UTC+06:00) Astana"
+  },
+  {
+    "countryCode": "DJ",
+    "id": "Africa/Djibouti",
+    "displayName": "(UTC+03:00) Nairobi"
+  },
+  {
+    "countryCode": "DM",
+    "id": "America/Dominica",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "DO",
+    "id": "America/Santo_Domingo",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "EC",
+    "id": "Pacific/Galapagos",
+    "displayName": "(UTC-06:00) Central America"
+  },
+  {
+    "countryCode": "EC",
+    "id": "America/Guayaquil",
+    "displayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco"
+  },
+  {
+    "countryCode": "EG",
+    "id": "Africa/Cairo",
+    "displayName": "(UTC+02:00) Cairo"
+  },
+  {
+    "countryCode": "SV",
+    "id": "America/El_Salvador",
+    "displayName": "(UTC-06:00) Central America"
+  },
+  {
+    "countryCode": "GQ",
+    "id": "Africa/Malabo",
+    "displayName": "(UTC+01:00) West Central Africa"
+  },
+  {
+    "countryCode": "ER",
+    "id": "Africa/Asmara",
+    "displayName": "(UTC+03:00) Nairobi"
+  },
+  {
+    "countryCode": "EE",
+    "id": "Europe/Tallinn",
+    "displayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
+  },
+  {
+    "countryCode": "SZ",
+    "id": "Africa/Mbabane",
+    "displayName": "(UTC+02:00) Harare, Pretoria"
+  },
+  {
+    "countryCode": "ET",
+    "id": "Africa/Addis_Ababa",
+    "displayName": "(UTC+03:00) Nairobi"
+  },
+  {
+    "countryCode": "FK",
+    "id": "Atlantic/Stanley",
+    "displayName": "(UTC-03:00) Cayenne, Fortaleza"
+  },
+  {
+    "countryCode": "FO",
+    "id": "Atlantic/Faroe",
+    "displayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London"
+  },
+  {
+    "countryCode": "FJ",
+    "id": "Pacific/Fiji",
+    "displayName": "(UTC+12:00) Fiji"
+  },
+  {
+    "countryCode": "FI",
+    "id": "Europe/Helsinki",
+    "displayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
+  },
+  {
+    "countryCode": "FR",
+    "id": "Europe/Paris",
+    "displayName": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
+  },
+  {
+    "countryCode": "GF",
+    "id": "America/Cayenne",
+    "displayName": "(UTC-03:00) Cayenne, Fortaleza"
+  },
+  {
+    "countryCode": "PF",
+    "id": "Pacific/Tahiti",
+    "displayName": "(UTC-10:00) Hawaii"
+  },
+  {
+    "countryCode": "PF",
+    "id": "Pacific/Marquesas",
+    "displayName": "(UTC-09:30) Marquesas Islands"
+  },
+  {
+    "countryCode": "PF",
+    "id": "Pacific/Gambier",
+    "displayName": "(UTC-09:00) Coordinated Universal Time-09"
+  },
+  {
+    "countryCode": "TF",
+    "id": "Indian/Kerguelen",
+    "displayName": "(UTC+05:00) Ashgabat, Tashkent"
+  },
+  {
+    "countryCode": "GA",
+    "id": "Africa/Libreville",
+    "displayName": "(UTC+01:00) West Central Africa"
+  },
+  {
+    "countryCode": "GM",
+    "id": "Africa/Banjul",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "GE",
+    "id": "Asia/Tbilisi",
+    "displayName": "(UTC+04:00) Tbilisi"
+  },
+  {
+    "countryCode": "DE",
+    "id": "Europe/Berlin",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "GH",
+    "id": "Africa/Accra",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "GI",
+    "id": "Europe/Gibraltar",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "GR",
+    "id": "Europe/Athens",
+    "displayName": "(UTC+02:00) Athens, Bucharest"
+  },
+  {
+    "countryCode": "GL",
+    "id": "America/Thule",
+    "displayName": "(UTC-04:00) Atlantic Time (Canada)"
+  },
+  {
+    "countryCode": "GL",
+    "id": "America/Nuuk",
+    "displayName": "(UTC-03:00) Greenland"
+  },
+  {
+    "countryCode": "GL",
+    "id": "America/Scoresbysund",
+    "displayName": "(UTC-01:00) Azores"
+  },
+  {
+    "countryCode": "GL",
+    "id": "America/Danmarkshavn",
+    "displayName": "(UTC) Coordinated Universal Time"
+  },
+  {
+    "countryCode": "GD",
+    "id": "America/Grenada",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "GP",
+    "id": "America/Guadeloupe",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "GU",
+    "id": "Pacific/Guam",
+    "displayName": "(UTC+10:00) Guam, Port Moresby"
+  },
+  {
+    "countryCode": "GT",
+    "id": "America/Guatemala",
+    "displayName": "(UTC-06:00) Central America"
+  },
+  {
+    "countryCode": "GG",
+    "id": "Europe/Guernsey",
+    "displayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London"
+  },
+  {
+    "countryCode": "GN",
+    "id": "Africa/Conakry",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "GW",
+    "id": "Africa/Bissau",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "GY",
+    "id": "America/Guyana",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "HT",
+    "id": "America/Port-au-Prince",
+    "displayName": "(UTC-05:00) Haiti"
+  },
+  {
+    "countryCode": "HN",
+    "id": "America/Tegucigalpa",
+    "displayName": "(UTC-06:00) Central America"
+  },
+  {
+    "countryCode": "HK",
+    "id": "Asia/Hong_Kong",
+    "displayName": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
+  },
+  {
+    "countryCode": "HU",
+    "id": "Europe/Budapest",
+    "displayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+  },
+  {
+    "countryCode": "IS",
+    "id": "Atlantic/Reykjavik",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "IN",
+    "id": "Asia/Kolkata",
+    "displayName": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi"
+  },
+  {
+    "countryCode": "ID",
+    "id": "Asia/Jakarta",
+    "displayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta"
+  },
+  {
+    "countryCode": "ID",
+    "id": "Asia/Makassar",
+    "displayName": "(UTC+08:00) Kuala Lumpur, Singapore"
+  },
+  {
+    "countryCode": "ID",
+    "id": "Asia/Jayapura",
+    "displayName": "(UTC+09:00) Osaka, Sapporo, Tokyo"
+  },
+  {
+    "countryCode": "IR",
+    "id": "Asia/Tehran",
+    "displayName": "(UTC+03:30) Tehran"
+  },
+  {
+    "countryCode": "IQ",
+    "id": "Asia/Baghdad",
+    "displayName": "(UTC+03:00) Baghdad"
+  },
+  {
+    "countryCode": "IE",
+    "id": "Europe/Dublin",
+    "displayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London"
+  },
+  {
+    "countryCode": "IM",
+    "id": "Europe/Isle_of_Man",
+    "displayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London"
+  },
+  {
+    "countryCode": "IT",
+    "id": "Europe/Rome",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "JM",
+    "id": "America/Jamaica",
+    "displayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco"
+  },
+  {
+    "countryCode": "JP",
+    "id": "Asia/Tokyo",
+    "displayName": "(UTC+09:00) Osaka, Sapporo, Tokyo"
+  },
+  {
+    "countryCode": "JE",
+    "id": "Europe/Jersey",
+    "displayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London"
+  },
+  {
+    "countryCode": "JO",
+    "id": "Asia/Amman",
+    "displayName": "(UTC+02:00) Amman"
+  },
+  {
+    "countryCode": "KZ",
+    "id": "Asia/Aqtobe",
+    "displayName": "(UTC+05:00) Ashgabat, Tashkent"
+  },
+  {
+    "countryCode": "KZ",
+    "id": "Asia/Almaty",
+    "displayName": "(UTC+06:00) Astana"
+  },
+  {
+    "countryCode": "KE",
+    "id": "Africa/Nairobi",
+    "displayName": "(UTC+03:00) Nairobi"
+  },
+  {
+    "countryCode": "KI",
+    "id": "Pacific/Tarawa",
+    "displayName": "(UTC+12:00) Coordinated Universal Time+12"
+  },
+  {
+    "countryCode": "KI",
+    "id": "Pacific/Enderbury",
+    "displayName": "(UTC+13:00) Coordinated Universal Time+13"
+  },
+  {
+    "countryCode": "KI",
+    "id": "Pacific/Kiritimati",
+    "displayName": "(UTC+14:00) Kiritimati Island"
+  },
+  {
+    "countryCode": "XK",
+    "id": "Europe/Belgrade",
+    "displayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+  },
+  {
+    "countryCode": "KW",
+    "id": "Asia/Kuwait",
+    "displayName": "(UTC+03:00) Kuwait, Riyadh"
+  },
+  {
+    "countryCode": "KG",
+    "id": "Asia/Bishkek",
+    "displayName": "(UTC+06:00) Astana"
+  },
+  {
+    "countryCode": "LA",
+    "id": "Asia/Vientiane",
+    "displayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta"
+  },
+  {
+    "countryCode": "LV",
+    "id": "Europe/Riga",
+    "displayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
+  },
+  {
+    "countryCode": "LB",
+    "id": "Asia/Beirut",
+    "displayName": "(UTC+02:00) Beirut"
+  },
+  {
+    "countryCode": "LS",
+    "id": "Africa/Maseru",
+    "displayName": "(UTC+02:00) Harare, Pretoria"
+  },
+  {
+    "countryCode": "LR",
+    "id": "Africa/Monrovia",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "LY",
+    "id": "Africa/Tripoli",
+    "displayName": "(UTC+02:00) Tripoli"
+  },
+  {
+    "countryCode": "LI",
+    "id": "Europe/Vaduz",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "LT",
+    "id": "Europe/Vilnius",
+    "displayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
+  },
+  {
+    "countryCode": "LU",
+    "id": "Europe/Luxembourg",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "MO",
+    "id": "Asia/Macau",
+    "displayName": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
+  },
+  {
+    "countryCode": "MG",
+    "id": "Indian/Antananarivo",
+    "displayName": "(UTC+03:00) Nairobi"
+  },
+  {
+    "countryCode": "MW",
+    "id": "Africa/Blantyre",
+    "displayName": "(UTC+02:00) Harare, Pretoria"
+  },
+  {
+    "countryCode": "MY",
+    "id": "Asia/Kuala_Lumpur",
+    "displayName": "(UTC+08:00) Kuala Lumpur, Singapore"
+  },
+  {
+    "countryCode": "MV",
+    "id": "Indian/Maldives",
+    "displayName": "(UTC+05:00) Ashgabat, Tashkent"
+  },
+  {
+    "countryCode": "ML",
+    "id": "Africa/Bamako",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "MT",
+    "id": "Europe/Malta",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "MH",
+    "id": "Pacific/Majuro",
+    "displayName": "(UTC+12:00) Coordinated Universal Time+12"
+  },
+  {
+    "countryCode": "MQ",
+    "id": "America/Martinique",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "MR",
+    "id": "Africa/Nouakchott",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "MU",
+    "id": "Indian/Mauritius",
+    "displayName": "(UTC+04:00) Port Louis"
+  },
+  {
+    "countryCode": "YT",
+    "id": "Indian/Mayotte",
+    "displayName": "(UTC+03:00) Nairobi"
+  },
+  {
+    "countryCode": "MX",
+    "id": "America/Tijuana",
+    "displayName": "(UTC-08:00) Baja California"
+  },
+  {
+    "countryCode": "MX",
+    "id": "America/Hermosillo",
+    "displayName": "(UTC-07:00) Arizona"
+  },
+  {
+    "countryCode": "MX",
+    "id": "America/Chihuahua",
+    "displayName": "(UTC-07:00) Chihuahua, La Paz, Mazatlan"
+  },
+  {
+    "countryCode": "MX",
+    "id": "America/Ojinaga",
+    "displayName": "(UTC-07:00) Mountain Time (US & Canada)"
+  },
+  {
+    "countryCode": "MX",
+    "id": "America/Mexico_City",
+    "displayName": "(UTC-06:00) Guadalajara, Mexico City, Monterrey"
+  },
+  {
+    "countryCode": "MX",
+    "id": "America/Matamoros",
+    "displayName": "(UTC-06:00) Central Time (US & Canada)"
+  },
+  {
+    "countryCode": "MX",
+    "id": "America/Cancun",
+    "displayName": "(UTC-05:00) Chetumal"
+  },
+  {
+    "countryCode": "FM",
+    "id": "Pacific/Chuuk",
+    "displayName": "(UTC+10:00) Guam, Port Moresby"
+  },
+  {
+    "countryCode": "FM",
+    "id": "Pacific/Pohnpei",
+    "displayName": "(UTC+11:00) Solomon Is., New Caledonia"
+  },
+  {
+    "countryCode": "MD",
+    "id": "Europe/Chisinau",
+    "displayName": "(UTC+02:00) Chisinau"
+  },
+  {
+    "countryCode": "MC",
+    "id": "Europe/Monaco",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "MN",
+    "id": "Asia/Hovd",
+    "displayName": "(UTC+07:00) Hovd"
+  },
+  {
+    "countryCode": "MN",
+    "id": "Asia/Ulaanbaatar",
+    "displayName": "(UTC+08:00) Ulaanbaatar"
+  },
+  {
+    "countryCode": "ME",
+    "id": "Europe/Podgorica",
+    "displayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+  },
+  {
+    "countryCode": "MS",
+    "id": "America/Montserrat",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "MA",
+    "id": "Africa/Casablanca",
+    "displayName": "(UTC+01:00) Casablanca"
+  },
+  {
+    "countryCode": "MZ",
+    "id": "Africa/Maputo",
+    "displayName": "(UTC+02:00) Harare, Pretoria"
+  },
+  {
+    "countryCode": "MM",
+    "id": "Asia/Yangon",
+    "displayName": "(UTC+06:30) Yangon (Rangoon)"
+  },
+  {
+    "countryCode": "NA",
+    "id": "Africa/Windhoek",
+    "displayName": "(UTC+02:00) Windhoek"
+  },
+  {
+    "countryCode": "NR",
+    "id": "Pacific/Nauru",
+    "displayName": "(UTC+12:00) Coordinated Universal Time+12"
+  },
+  {
+    "countryCode": "NP",
+    "id": "Asia/Kathmandu",
+    "displayName": "(UTC+05:45) Kathmandu"
+  },
+  {
+    "countryCode": "NL",
+    "id": "Europe/Amsterdam",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "NC",
+    "id": "Pacific/Noumea",
+    "displayName": "(UTC+11:00) Solomon Is., New Caledonia"
+  },
+  {
+    "countryCode": "NZ",
+    "id": "Pacific/Auckland",
+    "displayName": "(UTC+12:00) Auckland, Wellington"
+  },
+  {
+    "countryCode": "NZ",
+    "id": "Pacific/Chatham",
+    "displayName": "(UTC+12:45) Chatham Islands"
+  },
+  {
+    "countryCode": "NI",
+    "id": "America/Managua",
+    "displayName": "(UTC-06:00) Central America"
+  },
+  {
+    "countryCode": "NE",
+    "id": "Africa/Niamey",
+    "displayName": "(UTC+01:00) West Central Africa"
+  },
+  {
+    "countryCode": "NG",
+    "id": "Africa/Lagos",
+    "displayName": "(UTC+01:00) West Central Africa"
+  },
+  {
+    "countryCode": "NU",
+    "id": "Pacific/Niue",
+    "displayName": "(UTC-11:00) Coordinated Universal Time-11"
+  },
+  {
+    "countryCode": "NF",
+    "id": "Pacific/Norfolk",
+    "displayName": "(UTC+11:00) Norfolk Island"
+  },
+  {
+    "countryCode": "KP",
+    "id": "Asia/Pyongyang",
+    "displayName": "(UTC+09:00) Pyongyang"
+  },
+  {
+    "countryCode": "MK",
+    "id": "Europe/Skopje",
+    "displayName": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
+  },
+  {
+    "countryCode": "MP",
+    "id": "Pacific/Saipan",
+    "displayName": "(UTC+10:00) Guam, Port Moresby"
+  },
+  {
+    "countryCode": "NO",
+    "id": "Europe/Oslo",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "OM",
+    "id": "Asia/Muscat",
+    "displayName": "(UTC+04:00) Abu Dhabi, Muscat"
+  },
+  {
+    "countryCode": "PK",
+    "id": "Asia/Karachi",
+    "displayName": "(UTC+05:00) Islamabad, Karachi"
+  },
+  {
+    "countryCode": "PW",
+    "id": "Pacific/Palau",
+    "displayName": "(UTC+09:00) Osaka, Sapporo, Tokyo"
+  },
+  {
+    "countryCode": "PS",
+    "id": "Asia/Hebron",
+    "displayName": "(UTC+02:00) Gaza, Hebron"
+  },
+  {
+    "countryCode": "PA",
+    "id": "America/Panama",
+    "displayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco"
+  },
+  {
+    "countryCode": "PG",
+    "id": "Pacific/Port_Moresby",
+    "displayName": "(UTC+10:00) Guam, Port Moresby"
+  },
+  {
+    "countryCode": "PG",
+    "id": "Pacific/Bougainville",
+    "displayName": "(UTC+11:00) Bougainville Island"
+  },
+  {
+    "countryCode": "PY",
+    "id": "America/Asuncion",
+    "displayName": "(UTC-04:00) Asuncion"
+  },
+  {
+    "countryCode": "PE",
+    "id": "America/Lima",
+    "displayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco"
+  },
+  {
+    "countryCode": "PH",
+    "id": "Asia/Manila",
+    "displayName": "(UTC+08:00) Kuala Lumpur, Singapore"
+  },
+  {
+    "countryCode": "PN",
+    "id": "Pacific/Pitcairn",
+    "displayName": "(UTC-08:00) Coordinated Universal Time-08"
+  },
+  {
+    "countryCode": "PL",
+    "id": "Europe/Warsaw",
+    "displayName": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
+  },
+  {
+    "countryCode": "PT",
+    "id": "Atlantic/Azores",
+    "displayName": "(UTC-01:00) Azores"
+  },
+  {
+    "countryCode": "PT",
+    "id": "Europe/Lisbon",
+    "displayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London"
+  },
+  {
+    "countryCode": "PR",
+    "id": "America/Puerto_Rico",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "QA",
+    "id": "Asia/Qatar",
+    "displayName": "(UTC+03:00) Kuwait, Riyadh"
+  },
+  {
+    "countryCode": "RE",
+    "id": "Indian/Reunion",
+    "displayName": "(UTC+04:00) Port Louis"
+  },
+  {
+    "countryCode": "RO",
+    "id": "Europe/Bucharest",
+    "displayName": "(UTC+02:00) Athens, Bucharest"
+  },
+  {
+    "countryCode": "RU",
+    "id": "Europe/Kaliningrad",
+    "displayName": "(UTC+02:00) Kaliningrad"
+  },
+  {
+    "countryCode": "RU",
+    "id": "Europe/Moscow",
+    "displayName": "(UTC+03:00) Moscow, St. Petersburg"
+  },
+  {
+    "countryCode": "RU",
+    "id": "Europe/Volgograd",
+    "displayName": "(UTC+04:00) Volgograd"
+  },
+  {
+    "countryCode": "RU",
+    "id": "Europe/Samara",
+    "displayName": "(UTC+04:00) Izhevsk, Samara"
+  },
+  {
+    "countryCode": "RU",
+    "id": "Asia/Yekaterinburg",
+    "displayName": "(UTC+05:00) Ekaterinburg"
+  },
+  {
+    "countryCode": "RU",
+    "id": "Asia/Omsk",
+    "displayName": "(UTC+06:00) Omsk"
+  },
+  {
+    "countryCode": "RU",
+    "id": "Asia/Novosibirsk",
+    "displayName": "(UTC+07:00) Novosibirsk"
+  },
+  {
+    "countryCode": "RU",
+    "id": "Asia/Irkutsk",
+    "displayName": "(UTC+08:00) Irkutsk"
+  },
+  {
+    "countryCode": "RU",
+    "id": "Asia/Chita",
+    "displayName": "(UTC+09:00) Chita"
+  },
+  {
+    "countryCode": "RU",
+    "id": "Asia/Vladivostok",
+    "displayName": "(UTC+10:00) Vladivostok"
+  },
+  {
+    "countryCode": "RU",
+    "id": "Asia/Sakhalin",
+    "displayName": "(UTC+11:00) Sakhalin"
+  },
+  {
+    "countryCode": "RU",
+    "id": "Asia/Kamchatka",
+    "displayName": "(UTC+12:00) Anadyr, Petropavlovsk-Kamchatsky"
+  },
+  {
+    "countryCode": "RW",
+    "id": "Africa/Kigali",
+    "displayName": "(UTC+02:00) Harare, Pretoria"
+  },
+  {
+    "countryCode": "WS",
+    "id": "Pacific/Apia",
+    "displayName": "(UTC+13:00) Samoa"
+  },
+  {
+    "countryCode": "SM",
+    "id": "Europe/San_Marino",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "ST",
+    "id": "Africa/Sao_Tome",
+    "displayName": "(UTC+00:00) Sao Tome"
+  },
+  {
+    "countryCode": "SA",
+    "id": "Asia/Riyadh",
+    "displayName": "(UTC+03:00) Kuwait, Riyadh"
+  },
+  {
+    "countryCode": "SN",
+    "id": "Africa/Dakar",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "RS",
+    "id": "Europe/Belgrade",
+    "displayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+  },
+  {
+    "countryCode": "SC",
+    "id": "Indian/Mahe",
+    "displayName": "(UTC+04:00) Port Louis"
+  },
+  {
+    "countryCode": "SL",
+    "id": "Africa/Freetown",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "SG",
+    "id": "Asia/Singapore",
+    "displayName": "(UTC+08:00) Kuala Lumpur, Singapore"
+  },
+  {
+    "countryCode": "SX",
+    "id": "America/Lower_Princes",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "SK",
+    "id": "Europe/Bratislava",
+    "displayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+  },
+  {
+    "countryCode": "SI",
+    "id": "Europe/Ljubljana",
+    "displayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+  },
+  {
+    "countryCode": "SB",
+    "id": "Pacific/Guadalcanal",
+    "displayName": "(UTC+11:00) Solomon Is., New Caledonia"
+  },
+  {
+    "countryCode": "SO",
+    "id": "Africa/Mogadishu",
+    "displayName": "(UTC+03:00) Nairobi"
+  },
+  {
+    "countryCode": "ZA",
+    "id": "Africa/Johannesburg",
+    "displayName": "(UTC+02:00) Harare, Pretoria"
+  },
+  {
+    "countryCode": "GS",
+    "id": "Atlantic/South_Georgia",
+    "displayName": "(UTC-02:00) Coordinated Universal Time-02"
+  },
+  {
+    "countryCode": "KR",
+    "id": "Asia/Seoul",
+    "displayName": "(UTC+09:00) Seoul"
+  },
+  {
+    "countryCode": "SS",
+    "id": "Africa/Juba",
+    "displayName": "(UTC+02:00) Harare, Pretoria"
+  },
+  {
+    "countryCode": "ES",
+    "id": "Atlantic/Canary",
+    "displayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London"
+  },
+  {
+    "countryCode": "ES",
+    "id": "Europe/Madrid",
+    "displayName": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
+  },
+  {
+    "countryCode": "LK",
+    "id": "Asia/Colombo",
+    "displayName": "(UTC+05:30) Sri Jayawardenepura"
+  },
+  {
+    "countryCode": "BL",
+    "id": "America/St_Barthelemy",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "SH",
+    "id": "Atlantic/St_Helena",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "KN",
+    "id": "America/St_Kitts",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "LC",
+    "id": "America/St_Lucia",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "MF",
+    "id": "America/Marigot",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "PM",
+    "id": "America/Miquelon",
+    "displayName": "(UTC-03:00) Saint Pierre and Miquelon"
+  },
+  {
+    "countryCode": "VC",
+    "id": "America/St_Vincent",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "SD",
+    "id": "Africa/Khartoum",
+    "displayName": "(UTC+02:00) Khartoum"
+  },
+  {
+    "countryCode": "SR",
+    "id": "America/Paramaribo",
+    "displayName": "(UTC-03:00) Cayenne, Fortaleza"
+  },
+  {
+    "countryCode": "SJ",
+    "id": "Arctic/Longyearbyen",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "SE",
+    "id": "Europe/Stockholm",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "CH",
+    "id": "Europe/Zurich",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "SY",
+    "id": "Asia/Damascus",
+    "displayName": "(UTC+02:00) Damascus"
+  },
+  {
+    "countryCode": "TW",
+    "id": "Asia/Taipei",
+    "displayName": "(UTC+08:00) Taipei"
+  },
+  {
+    "countryCode": "TJ",
+    "id": "Asia/Dushanbe",
+    "displayName": "(UTC+05:00) Ashgabat, Tashkent"
+  },
+  {
+    "countryCode": "TZ",
+    "id": "Africa/Dar_es_Salaam",
+    "displayName": "(UTC+03:00) Nairobi"
+  },
+  {
+    "countryCode": "TH",
+    "id": "Asia/Bangkok",
+    "displayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta"
+  },
+  {
+    "countryCode": "TL",
+    "id": "Asia/Dili",
+    "displayName": "(UTC+09:00) Osaka, Sapporo, Tokyo"
+  },
+  {
+    "countryCode": "TG",
+    "id": "Africa/Lome",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "TK",
+    "id": "Pacific/Fakaofo",
+    "displayName": "(UTC+13:00) Coordinated Universal Time+13"
+  },
+  {
+    "countryCode": "TO",
+    "id": "Pacific/Tongatapu",
+    "displayName": "(UTC+13:00) Nuku'alofa"
+  },
+  {
+    "countryCode": "TT",
+    "id": "America/Port_of_Spain",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "TA",
+    "id": "Atlantic/St_Helena",
+    "displayName": "(UTC+00:00) Monrovia, Reykjavik"
+  },
+  {
+    "countryCode": "TN",
+    "id": "Africa/Tunis",
+    "displayName": "(UTC+01:00) West Central Africa"
+  },
+  {
+    "countryCode": "TR",
+    "id": "Europe/Istanbul",
+    "displayName": "(UTC+03:00) Istanbul"
+  },
+  {
+    "countryCode": "TM",
+    "id": "Asia/Ashgabat",
+    "displayName": "(UTC+05:00) Ashgabat, Tashkent"
+  },
+  {
+    "countryCode": "TC",
+    "id": "America/Grand_Turk",
+    "displayName": "(UTC-05:00) Turks and Caicos"
+  },
+  {
+    "countryCode": "TV",
+    "id": "Pacific/Funafuti",
+    "displayName": "(UTC+12:00) Coordinated Universal Time+12"
+  },
+  {
+    "countryCode": "UM",
+    "id": "Pacific/Wake",
+    "displayName": "(UTC+12:00) Coordinated Universal Time+12"
+  },
+  {
+    "countryCode": "VI",
+    "id": "America/St_Thomas",
+    "displayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+  },
+  {
+    "countryCode": "UG",
+    "id": "Africa/Kampala",
+    "displayName": "(UTC+03:00) Nairobi"
+  },
+  {
+    "countryCode": "UA",
+    "id": "Europe/Kiev",
+    "displayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
+  },
+  {
+    "countryCode": "AE",
+    "id": "Asia/Dubai",
+    "displayName": "(UTC+04:00) Abu Dhabi, Muscat"
+  },
+  {
+    "countryCode": "GB",
+    "id": "Europe/London",
+    "displayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London"
+  },
+  {
+    "countryCode": "US",
+    "id": "Pacific/Honolulu",
+    "displayName": "(UTC-10:00) Hawaii"
+  },
+  {
+    "countryCode": "US",
+    "id": "America/Adak",
+    "displayName": "(UTC-10:00) Aleutian Islands"
+  },
+  {
+    "countryCode": "US",
+    "id": "America/Anchorage",
+    "displayName": "(UTC-09:00) Alaska"
+  },
+  {
+    "countryCode": "US",
+    "id": "America/Los_Angeles",
+    "displayName": "(UTC-08:00) Pacific Time (US & Canada)"
+  },
+  {
+    "countryCode": "US",
+    "id": "America/Phoenix",
+    "displayName": "(UTC-07:00) Arizona"
+  },
+  {
+    "countryCode": "US",
+    "id": "America/Denver",
+    "displayName": "(UTC-07:00) Mountain Time (US & Canada)"
+  },
+  {
+    "countryCode": "US",
+    "id": "America/Chicago",
+    "displayName": "(UTC-06:00) Central Time (US & Canada)"
+  },
+  {
+    "countryCode": "US",
+    "id": "America/New_York",
+    "displayName": "(UTC-05:00) Eastern Time (US & Canada)"
+  },
+  {
+    "countryCode": "UY",
+    "id": "America/Montevideo",
+    "displayName": "(UTC-03:00) Montevideo"
+  },
+  {
+    "countryCode": "UZ",
+    "id": "Asia/Tashkent",
+    "displayName": "(UTC+05:00) Ashgabat, Tashkent"
+  },
+  {
+    "countryCode": "VU",
+    "id": "Pacific/Efate",
+    "displayName": "(UTC+11:00) Solomon Is., New Caledonia"
+  },
+  {
+    "countryCode": "VA",
+    "id": "Europe/Vatican",
+    "displayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+  },
+  {
+    "countryCode": "VE",
+    "id": "America/Caracas",
+    "displayName": "(UTC-04:00) Caracas"
+  },
+  {
+    "countryCode": "VN",
+    "id": "Asia/Ho_Chi_Minh",
+    "displayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta"
+  },
+  {
+    "countryCode": "WF",
+    "id": "Pacific/Wallis",
+    "displayName": "(UTC+12:00) Coordinated Universal Time+12"
+  },
+  {
+    "countryCode": "EH",
+    "id": "Africa/El_Aaiun",
+    "displayName": "(UTC+01:00) Casablanca"
+  },
+  {
+    "countryCode": "YE",
+    "id": "Asia/Aden",
+    "displayName": "(UTC+03:00) Kuwait, Riyadh"
+  },
+  {
+    "countryCode": "ZM",
+    "id": "Africa/Lusaka",
+    "displayName": "(UTC+02:00) Harare, Pretoria"
+  },
+  {
+    "countryCode": "ZW",
+    "id": "Africa/Harare",
+    "displayName": "(UTC+02:00) Harare, Pretoria"
+  }
+]

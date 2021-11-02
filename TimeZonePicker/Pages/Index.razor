@@ -1,6 +1,6 @@
 ﻿@page "/"
 @using NodaTime
-@using TimeZoneNames
+@inject TzAndCountryInfo _db
 
 <div class="container mt-5">
     <div class="row">
@@ -12,7 +12,7 @@
                     <option value="">Select country</option>
                     @foreach (var country in Countries)
                     {
-                        <option value="@country.Key">@country.Value</option>
+                        <option value="@country.Code">@country.Name</option>
                     }
                 </select>
             </div>
@@ -27,22 +27,22 @@
                 }
                 else
                 {
-                    var zonesOfSelectedCountry = TZNames.GetTimeZonesForCountry(SelectedCountry, "en", new DateTime(2020, 1, 1));
+                    var zonesOfSelectedCountry = AllZones.Where(z => z.CountryCode == SelectedCountry);
                     var numOfZones = zonesOfSelectedCountry.Count();
                     if (numOfZones == 1)
                     {
                         var zone = zonesOfSelectedCountry.ElementAt(0);
-                        SelectedZone = zone.Key;
+                        SelectedZone = zone.Id;
                         <label class="form-label">Time Zone</label>
                         <select class="form-control" disabled>
-                            <option value="@zone.Key">@GetTimeZoneDisplayName(zone.Key)</option>
+                            <option value="@zone.Id">@GetTime(zone.Id) - @zone.DisplayName</option>
                         </select>
 
                         <p class="text-success">Selected country only has one time zone, you're all set!</p>
                     }
                     else if (numOfZones > 1)
                     {
-                        if (!zonesOfSelectedCountry.Any(z => z.Key == SelectedZone))
+                        if (!zonesOfSelectedCountry.Any(z => z.Id == SelectedZone))
                         {
                             SelectedZone = null;
                         }
@@ -51,7 +51,7 @@
                             <option>Select time zone</option>
                             @foreach (var zone in zonesOfSelectedCountry)
                             {
-                                <option value="@zone.Key">@GetTimeZoneDisplayName(zone.Key)</option>
+                                <option value="@zone.Id">@GetTime(zone.Id) - @zone.DisplayName</option>
                             }
                         </select>
                     }
@@ -70,10 +70,8 @@
 </div>
 
 @code {
-    IDictionary<string, string> Countries =
-         TZNames.GetCountryNames("en")
-         .Where(c => c.Value.ToLower() != "united nations")
-         .ToDictionary(c => c.Key, c => c.Value);
+    IEnumerable<CountryItem> Countries = new List<CountryItem>();
+    IEnumerable<TimeZoneItem> AllZones = new List<TimeZoneItem>();
 
     string SelectedCountry { get; set; }
     string SelectedZone { get; set; }
@@ -81,20 +79,20 @@
 
     protected override async Task OnInitializedAsync()
     {
-        //the first call to GetTimeZonesForCountry causes some lag
-        //this dummy call gets the lag out of the way
-        //before the user has a chance to interact with the app
+        Countries = _db.Countries;
+        AllZones = _db.TimeZones;
 
+        //the first country selection causes some lag
+        //this dummy selection gets the lag out of the way
+        //before the user has a chance to interact with the app
         SelectedCountry = "ZW";
-        _ = TZNames.GetTimeZonesForCountry(SelectedCountry, "en", new DateTime(2020, 1, 1));
         await Task.Delay(1);
         SelectedCountry = null;
     }
 
-    private string GetTimeZoneDisplayName(string zoneId)
+    string GetTime(string zoneId)
     {
-        var zone = DateTimeZoneProviders.Tzdb[zoneId];
-        var name = TZNames.GetDisplayNameForTimeZone(zoneId, "en");
-        return systemClock.GetCurrentInstant().InZone(zone).ToString("(hh:mm tt)", null) + " - " + name;
+        var nowInZone = systemClock.GetCurrentInstant().InZone(DateTimeZoneProviders.Tzdb[zoneId]);
+        return nowInZone.ToString("(hh:mm tt)", null);
     }
 }
