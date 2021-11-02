@@ -1,0 +1,78 @@
+﻿@page "/"
+@using NodaTime
+@using TimeZoneNames
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="offset-lg-3 col-lg-6">
+            <h3 class="text-center">Welcome to Time Zone Picker</h3>
+            <div class="mb-3">
+                <label class="form-label">Country</label>
+                <select @bind="SelectedCountry" class="form-control">
+                    <option value="">Select country</option>
+                    @foreach (var country in Countries)
+                    {
+                        <option value="@country.Key">@country.Value</option>
+                    }
+                </select>
+            </div>
+
+            <div class="mb-3">
+                @if (!string.IsNullOrEmpty(SelectedCountry))
+                {
+                    var zonesOfSelectedCountry = TZNames.GetTimeZonesForCountry(SelectedCountry, "en", new DateTime(2020, 1, 1));
+                    var numOfZones = zonesOfSelectedCountry.Count();
+                    if (numOfZones == 1)
+                    {
+                        var zone = zonesOfSelectedCountry.ElementAt(0);
+                        SelectedZone = zone.Key;
+                        <label class="form-label">Timezone</label>
+                        <select class="form-control" disabled>
+                            <option value="@zone.Key">@GetTimeZoneDisplayName(zone.Key)</option>
+                        </select>
+                        <p class="text-success">
+                            Selected country only has one timezone, you're all set!
+                        </p>
+                    }
+                    else if (numOfZones > 1)
+                    {
+                        <label class="form-label">Time Zone</label>
+                        <select @bind="SelectedZone" class="form-control">
+                            <option>Select time zone</option>
+                            @foreach (var zone in zonesOfSelectedCountry)
+                            {
+                                <option value="@zone.Key">@GetTimeZoneDisplayName(zone.Key)</option>
+                            }
+                        </select>
+                    }
+                    else
+                    {
+                        <p class="text-danger">Uhh well, that's weird! Sorry, no timezones found for this country.</p>
+                    }
+                }
+            </div>
+
+            <p>
+                <span class="text-muted">Your timezone ID is: </span><span class="fw-bold">@SelectedZone</span>
+            </p>
+        </div>
+    </div>
+</div>
+
+@code {
+    IDictionary<string, string> Countries =
+         TZNames.GetCountryNames("en")
+         .Where(c => c.Value.ToLower() != "united nations")
+         .ToDictionary(c => c.Key, c => c.Value);
+
+    string SelectedCountry { get; set; }
+    string SelectedZone { get; set; }
+    SystemClock systemClock = SystemClock.Instance;
+
+    private string GetTimeZoneDisplayName(string zoneId)
+    {
+        var zone = DateTimeZoneProviders.Tzdb[zoneId];
+        var name = TZNames.GetDisplayNameForTimeZone(zoneId, "en");
+        return systemClock.GetCurrentInstant().InZone(zone).ToString("(hh:mm tt)", null) + " - " + name;
+    }
+}
