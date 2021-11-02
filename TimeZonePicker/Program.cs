@@ -18,14 +18,18 @@ namespace TimeZonePicker
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
             builder.RootComponents.Add<App>("#app");
 
-            Console.WriteLine(builder.HostEnvironment.Environment);
-
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
 
+            Console.WriteLine(builder.HostEnvironment.Environment);
+            string prefix = "";
+            if(builder.HostEnvironment.Environment == "Production")
+            {
+                prefix = "/TimeZonePicker";
+            }
             var http = new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) };
             var tzAndCountryInfo = new TzAndCountryInfo();
-            tzAndCountryInfo.Countries = await http.GetFromJsonAsync<IEnumerable<CountryItem>>("/json/countries.json");
-            tzAndCountryInfo.TimeZones = await http.GetFromJsonAsync<IEnumerable<TimeZoneItem>>("/json/zones.json");
+            tzAndCountryInfo.Countries = await http.GetFromJsonAsync<IEnumerable<CountryItem>>(prefix + "/json/countries.json");
+            tzAndCountryInfo.TimeZones = await http.GetFromJsonAsync<IEnumerable<TimeZoneItem>>(prefix + "/json/zones.json");
             builder.Services.AddSingleton<TzAndCountryInfo>(tzAndCountryInfo);
 
             await builder.Build().RunAsync();
