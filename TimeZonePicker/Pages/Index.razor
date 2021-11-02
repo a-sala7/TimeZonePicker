@@ -18,7 +18,14 @@
             </div>
 
             <div class="mb-3">
-                @if (!string.IsNullOrEmpty(SelectedCountry))
+                @if (string.IsNullOrEmpty(SelectedCountry))
+                {
+                    SelectedZone = null;
+                    <label class="form-label">Time Zone</label>
+                    <select class="form-control" disabled>
+                    </select>
+                }
+                else
                 {
                     var zonesOfSelectedCountry = TZNames.GetTimeZonesForCountry(SelectedCountry, "en", new DateTime(2020, 1, 1));
                     var numOfZones = zonesOfSelectedCountry.Count();
@@ -26,16 +33,19 @@
                     {
                         var zone = zonesOfSelectedCountry.ElementAt(0);
                         SelectedZone = zone.Key;
-                        <label class="form-label">Timezone</label>
+                        <label class="form-label">Time Zone</label>
                         <select class="form-control" disabled>
                             <option value="@zone.Key">@GetTimeZoneDisplayName(zone.Key)</option>
                         </select>
-                        <p class="text-success">
-                            Selected country only has one timezone, you're all set!
-                        </p>
+
+                        <p class="text-success">Selected country only has one time zone, you're all set!</p>
                     }
                     else if (numOfZones > 1)
                     {
+                        if (!zonesOfSelectedCountry.Any(z => z.Key == SelectedZone))
+                        {
+                            SelectedZone = null;
+                        }
                         <label class="form-label">Time Zone</label>
                         <select @bind="SelectedZone" class="form-control">
                             <option>Select time zone</option>
@@ -47,13 +57,13 @@
                     }
                     else
                     {
-                        <p class="text-danger">Uhh well, that's weird! Sorry, no timezones found for this country.</p>
+                        <p class="text-danger">Uhhh... well that's weird! Sorry, no time zones found for this country.</p>
                     }
                 }
             </div>
 
             <p>
-                <span class="text-muted">Your timezone ID is: </span><span class="fw-bold text-success">@SelectedZone</span>
+                <span class="text-muted">Your time zone ID is: </span><span class="fw-bold text-success">@SelectedZone</span>
             </p>
         </div>
     </div>
